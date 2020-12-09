@@ -1,4 +1,4 @@
-## Detection and Delineation of Events and Sub-Events in Social Networks (IEEE ICDE 2018)
+## Event and Sub-Event Detection in Social Networks (IEEE ICDE 2018)
 #### Authors: [Antonia Saravanou](http://cgi.di.uoa.gr/~antoniasar/), [Ioannis Katakis](http://www.katakis.eu/), [George Valkanas](http://cgi.di.uoa.gr/~gvalk/), [Dimitrios Gunopulos](http://kddlab.di.uoa.gr/dg.html)
 #### [Link to the paper](http://cgi.di.uoa.gr/~antoniasar/papers/Saravanou_Delineating_ICDE2018.pdf)
 #### [Link to the poster](http://cgi.di.uoa.gr/~antoniasar/papers/Saravanou_Delineating_ICDE2018_poster.pdf)
