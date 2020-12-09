@@ -14,8 +14,8 @@ delineation.
 The contributions of this work can be summarized as follows:
 1. **Network Representation**: We introduce a novel representation of a network as a dynamic heterogeneous graph, the Content Network. 
 2. **Revealing Hidden Links**: We provide an algorithm that identifies hidden links in Content Networks by connecting similar content nodes utilizing neural word embeddings.
-3. **Event Detection and Delineation**: We present an algorithm for detecting and delineating events into sub-events by tracking large connected components of Content Networks over time and summarizing them using the text similarity and the graph structure. Our results demonstrate, that we are able to effectively identify events compared to widely used event detection techniques.
-
+3. **Event Detection**: We present an algorithm for detecting events by tracking large connected components of Content Networks over time. Our results demonstrate, that we are able to effectively identify events compared to widely used event detection techniques.
+4. **Sub-Event Detection (or Delineation)**: We present an algorithm that builts on top of our event detection algorithm and is detecting sub-events by tracking dense subgraphs in the large connected components of Content Networks over time and summarizing them using the text similarity and the graph structure. Our results demonstrate, that we are able to effectively identify sub-events compared to the state-of-the-art.
 
 
 If you make use of this code, the DeLi algorithm, or the datasets in your work, please cite the following paper:
